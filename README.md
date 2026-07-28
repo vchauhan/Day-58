@@ -2,6 +2,9 @@
 <img width="1128" height="1486" alt="Image 28-07-26 at 6 00 PM" src="https://github.com/user-attachments/assets/6c176c79-8d44-43b1-965d-3c6d510d1a2f" />
 <img width="1296" height="1540" alt="Image 28-07-26 at 6 01 PM" src="https://github.com/user-attachments/assets/610f3332-1459-456f-a643-0624647be12d" />
 # Day-58
+Prompt Link *******
+https://claude.ai/share/60b4de20-411b-43b7-941f-2c02fbd16d7b
+********
 Testing, Debugging &amp; Production Optimization
 Day 8: QA, Security & Production-Readiness Review
 
